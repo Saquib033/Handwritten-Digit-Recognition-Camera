@@ -29,4 +29,5 @@ Press `q` to exit the camera window.
 - Model Type: Convolutional Neural Network (CNN)
 
 ## Author
-Your Name
+Md. Shadman Saquib
+
